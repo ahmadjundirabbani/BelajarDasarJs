@@ -1,3 +1,5 @@
+<h6>sumber dari @kelasterbuka</h6>
+
 <h1>Pengenalan JavaScript</h1>
 JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web yang interaktif dan dinamis. Bersama HTML dan CSS, JavaScript memungkinkan situs web berinteraksi dengan pengguna, merespons input, serta mengubah konten dan tampilan tanpa memuat ulang seluruh halaman.
 
